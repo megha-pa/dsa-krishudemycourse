@@ -1,0 +1,6 @@
+Steps for Multi-Line Editing in Visual Studio Code
+Set the cursor in the first line you want to edit.
+Generate multiple cursors:
+- On Windows, use Ctrl+Alt+Down or Ctrl+Alt+Up to insert more cursors on consecutive lines. Use Alt+Click to add cursors to separate lines, not necessarily consecutive.
+- On Linux, use Shift+Alt+Down or Shift+Alt+Up to insert more cursors on consecutive lines. Use Alt+Click to add cursors to separate lines, not necessarily consecutive.
+- On Mac, use ⌥+⌘+Down or ⌥+⌘+Up to insert more cursors on consecutive lines. Use ⌥+Click to add cursors to separate lines, not necessarily consecutiv

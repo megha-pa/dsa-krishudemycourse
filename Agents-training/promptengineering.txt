@@ -1,0 +1,9 @@
+## what is prompt engineering?
+
+designig and refining inputs to obtain your desired output.
+
+
+## writing effective prompts?
+1.Be specific,use technical terms, provide contexts
+2.
+

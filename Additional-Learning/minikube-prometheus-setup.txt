@@ -1,0 +1,12 @@
+## Steps to install minikube on mac
+1.brew install minikube kubectl
+2.minikube start
+3.brew install helm
+4.helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
+5.helm repo update
+6.helm install prometheus prometheus-community/prometheus
+7.minikube service prometheus-server-ext
+8.minikube service grafana-ext
+9.helm show values prometheus-community/prometheus > values.yaml\n
+10.helm upgrade prometheus prometheus-community/prometheus -f values.yaml -n default\n
+https://medium.com/@gayatripawar401/deploy-prometheus-and-grafana-on-kubernetes-using-helm-5aa9d4fbae66
