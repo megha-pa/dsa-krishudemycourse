@@ -46,3 +46,5 @@ Nginx provides several key advantages that make it a preferred choice for many w
 -Protocol Support: Nginx supports HTTP, HTTPS, HTTP/1.1, HTTP/2, gRPC - Hypertext Transport Protocol along with both IP4 & IP6 internet protocol.
 
 #### Proxy meaning
+
+
