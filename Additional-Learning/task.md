@@ -3,4 +3,5 @@
 - [x] Python
 - [ ] DSA
 - [ ] ML
-- [ ] Kuberentesu
+- [ ] Kuberentes
+- [ ] 

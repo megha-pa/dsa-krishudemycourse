@@ -47,4 +47,6 @@ Nginx provides several key advantages that make it a preferred choice for many w
 
 #### Proxy meaning
 
+A proxy server acts as an intermediary between a user's device and the internet, routing requests and responses through a server.
+
 
