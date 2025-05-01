@@ -1,0 +1,15 @@
+Process to solve a problem
+
+1.Analyze your problem-Input,Output,constants
+2.Break down problem into smaller subchart
+3.Remember/enlist the concepts
+4.Take 2 -3 example-clear out confusion/gap
+5.Write pseudocode on a paper
+6.Dry run it once
+7.write down your solution
+8.look out for edge cases or boundary condition
+
+Square of side N
+
+1.input N,output list of string
+2
