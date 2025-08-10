@@ -210,3 +210,4 @@ ansible_ssh_private_key_file → path to your .pem key file used for SSH authent
 
 ansible-playbook -i inventory.ini playbook.yml
 
+![alt text](image.png)
